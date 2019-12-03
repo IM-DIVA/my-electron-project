@@ -5,6 +5,7 @@
       <div class="left-side">
         <span class="title">
           Welcome to your new project!
+          and what the hell is travis?
         </span>
         <system-information></system-information>
       </div>
